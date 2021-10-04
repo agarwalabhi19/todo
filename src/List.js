@@ -2,7 +2,7 @@ import React from 'react';
 import './List.css';
 import {AiFillDelete } from 'react-icons/ai';
 
-//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 function List(props){
     const items = props.items;
